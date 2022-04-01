@@ -149,4 +149,7 @@ img {
     img {
         height: 50vw;
     }
+    h1 a {
+        font-size: 25px;
+    }
 }
